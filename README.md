@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @madeline-past
+- 👋 Hi, I’m @m4deline
 - 👀 I’m interested in vision language navigation
 - 🌱 I’m currently learning deep learning
-- 💞️ I’m looking to collaborate on vln
+- 💞️ I’m looking to collaborate on vision language navigation
 - 📫 How to reach me marquez307@qq.com
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
