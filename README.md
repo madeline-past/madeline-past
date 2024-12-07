@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @m4deline
-- 👀 I’m interested in vision language navigation
+- 👀 I’m interested in deep learning and computer vision
 - 🌱 I’m currently learning deep learning
 - 💞️ I’m looking to collaborate on vision language navigation
 - 📫 How to reach me marquez307@qq.com
